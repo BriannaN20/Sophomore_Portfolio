@@ -3,3 +3,12 @@ body {
   text-align: center;
   color: deeppink;
 }
+
+img {  float: right;
+  width: 500px;
+  height: 400px;
+  margin: 10px;
+  border-color: rgb(234, 156, 182);
+  border-width: 5px;
+  border-style: dashed;
+  border-radius: 10px;}
