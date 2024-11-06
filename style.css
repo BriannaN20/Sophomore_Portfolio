@@ -1,7 +1,8 @@
 body {
   background-color: lightpink;
-  text-align: center;
+  text-align: left;
   color: deeppink;
+  font-size: 23px;
 }
 
 img {  float: right;
@@ -11,4 +12,9 @@ img {  float: right;
   border-color: rgb(234, 156, 182);
   border-width: 5px;
   border-style: dashed;
-  border-radius: 10px;}
+  border-radius: 10px;
+}
+
+.myImage {
+  background-image: url("brianna_blossoms.jpeg");
+}
