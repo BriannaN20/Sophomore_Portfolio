@@ -1,23 +1,21 @@
 body {
   background-color: lightpink;
-  text-align: left;
+  text-align: center;
   color: deeppink;
-  font-size: 23px;
+  font-size: 19px;
 }
 
-img {  float: right;
-  width: 500px;
-  height: 400px;
+h1 {
+  font-family: sans-serif;
+border-style: inset;
+}
+img {  
+  float: right;
+  width: 250px;
+  height: 200px;
   margin: 10px;
   border-color: rgb(234, 156, 182);
   border-width: 5px;
   border-style: dashed;
   border-radius: 10px;
 }
-
-.myImage {
-  background-image: url("brianna_blossoms.jpeg");
-}
-
-.myImage {
-  background-image: url("BriannaSmall-9.jpg");
