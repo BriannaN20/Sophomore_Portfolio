@@ -1,0 +1,21 @@
+body {
+  background-color: lightpink;
+  text-align: center;
+  color: deeppink;
+  font-size: 19px;
+}
+
+h1 {
+  font-family: sans-serif;
+}
+
+img {  
+  float: right;
+  width: 200px;
+  height: 250px;
+  margin: 10px;
+  border-color: rgb(234, 156, 182);
+  border-width: 5px;
+  border-style: dashed;
+  border-radius: 10px;
+}
